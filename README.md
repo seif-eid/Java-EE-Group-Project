@@ -1,6 +1,6 @@
 # Java-EE-Group-Project
 
-The theme for the Group Project:
+The theme for the Group Project is to bring together everything you have learned:
 1. JPA – for model objects
 2. Session beans – for business logic
 3. REST – representation of back-end resources
